@@ -858,8 +858,9 @@ Generated using nucleoapp.com
   content: "\eab1";
 }
 
-.lni-facebook-filled::before {
-  content: "\eab2";
+.lni-github-filled::before {
+  /*content: "\eab2"; */
+  content: "\eace";
 }
 
 .lni-facebook-messenger::before {
@@ -1110,8 +1111,9 @@ Generated using nucleoapp.com
   content: "\eaf0";
 }
 
-.lni-instagram-filled::before {
-  content: "\eaf1";
+.lni-user-filled::before {
+  /*content: "\eaf1"; */
+  content: "\ebdd";
 }
 
 .lni-instagram-original::before {
